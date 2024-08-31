@@ -6,12 +6,12 @@ $large-breakpoint: 64em !default;
 $medium-breakpoint: 42em !default;
 
 // Headers
-$header-heading-color: #cc0000 !default;
-$header-bg-color: #ffffff !default;
+$header-heading-color: #8C2814 !default;
+$header-bg-color: #000000 !default;
 $header-bg-color-secondary: #434343 !default;
 
 // Body
-$body-background-color: #ffffff !default;
+$body-background-color: #000000 !default;
 
 // Text
 $section-headings-color: #159957 !default;
@@ -29,11 +29,12 @@ $table-border-color: #e9ebec !default;
 $hr-border-color: #eff0f1 !default;
 
 @import 'jekyll-theme-cayman';
+@import url(https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap);
 
 body {
   padding: 0;
   margin: 0;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Outfit", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   background-color: $body-background-color;
