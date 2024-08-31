@@ -1,2 +1,2 @@
-# kikatalabs.github.io
+# kikata
 kikata labs website
