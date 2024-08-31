@@ -3,7 +3,7 @@ title: kikata
 description: connected products 
 
 plugins:
-- jekyll-remote-theme
+   - jekyll-remote-theme
 
 # STYLE VARIABLES
 ## Breakpoints
