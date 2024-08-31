@@ -13,7 +13,7 @@ $header-bg-color: #ffffff !default;
 $header-bg-color-secondary: #434343 !default;
 
 ## Body
-body-background-color: #ffffff !default;
+$body-background-color: #ffffff !default;
 
 ## Text
 $section-headings-color: #159957 !default;
