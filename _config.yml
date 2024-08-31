@@ -2,6 +2,9 @@ remote_theme: pages-themes/cayman@v0.2.0
 title: kikata
 description: connected products 
 
+plugins:
+- jekyll-remote-theme
+
 # STYLE VARIABLES
 ## Breakpoints
 $large-breakpoint: 64em !default;
